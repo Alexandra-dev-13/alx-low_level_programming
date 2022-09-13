@@ -2,9 +2,9 @@
 /**
  * main - print the string in the put function
  *
- * Description : with proper grammar, but the outcome is a piece of art,
+ * Description: with proper grammar, but the outcome is a piece of art,
  * this program prints Programming is like building a multilingual puzzle
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
