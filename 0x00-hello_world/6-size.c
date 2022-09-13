@@ -4,16 +4,7 @@
 * main - print the string in the put function
 *
 * Description : using the main function
-* Size of a char: 1 byte(s)
-*
-* Size of an int: 4 byte(s)
-*
-* Size of a long int: 4 byte(s)
-*
-* Size of a long long int: 8 byte(s)
-*
-* Size of a float: 4 byte(s)
-* this program prints Programming is like building a multilingual puzzle
+* this program prints "Programming is like building a multilingual puzzle
 * Return : 0
 */
 int main(void)
