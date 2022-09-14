@@ -8,7 +8,7 @@
  **/
 int main(void)
 {
-	char ch =1;
+	char ch = '1';
 
 	putchar(ch);
 
