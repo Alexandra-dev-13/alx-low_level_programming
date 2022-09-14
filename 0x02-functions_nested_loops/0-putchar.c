@@ -8,9 +8,14 @@
  **/
 int main(void)
 {
-	char ch = '1';
-
-	putchar(ch);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
