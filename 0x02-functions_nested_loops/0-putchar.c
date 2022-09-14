@@ -8,9 +8,7 @@
  **/
 int main(void)
 {
-	char ch = 1;
-
-	putchar(ch);
+	write(putchar);
 
 	return (0);
 }
