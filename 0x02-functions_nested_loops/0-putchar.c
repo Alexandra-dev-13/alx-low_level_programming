@@ -1,6 +1,8 @@
-#include <unistd.h>
+#include <stdio.h>
 
-int _putchar(int i)
+int main()
 {
-	return (write(0));
+	char ch = 1;
+	putchar(ch);
+	return (0);
 }
