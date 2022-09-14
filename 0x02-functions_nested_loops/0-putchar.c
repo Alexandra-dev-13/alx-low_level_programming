@@ -1,8 +1,14 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - using the main function
+ *
+ * Description: Write a program that prints _putchar, followed by a new line.
+ * Return:0
+ **/
+int main(void)
 {
 	char ch = 1;
-	putchar(ch);
+	putchar(ch);	
 	return (0);
 }
