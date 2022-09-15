@@ -8,8 +8,7 @@
  *
  * Return: 0
  */
-
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char c;
 
@@ -19,3 +18,4 @@ int print_alphabet(void)
 	}
 _putchar('\n');
 }
+
