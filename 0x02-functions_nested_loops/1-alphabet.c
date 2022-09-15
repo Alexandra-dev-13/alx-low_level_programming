@@ -1,9 +1,6 @@
 #include "main.h"
 
 /**
- * main - using the main function
- *
- * Description: Write a function that prints the alphabet, in lowercas
  * print_alphabet - function to print abc
  *
  * Return: 0
