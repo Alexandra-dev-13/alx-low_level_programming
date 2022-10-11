@@ -1,4 +1,11 @@
 #include <stdio.h>
+
+/**
+* main - function who prints file name
+*
+* Return: 0
+*/
+
 int main(void)
 {
 printf("%s\n", __FILE__);
